@@ -1,5 +1,8 @@
 # inbox-zero-talk
 
+> [!WARNING]  
+> En construcción es un boceto de momento
+
 1. **Presentación**
 2. **Contexto histórico y origen de "Inbox Zero"**
    - Palabras clave: **Merlin Mann**, **productividad**, **gestión eficiente de correos**, **procesar correos rápidamente**, **eliminar, responder, delegar, archivar, diferir**, **origen en 2006**, **popularización en entornos tecnológicos**.
